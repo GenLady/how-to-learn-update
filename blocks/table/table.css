@@ -1,0 +1,10 @@
+.table {
+  max-width: 1100px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-content: space-between;
+  flex-wrap: wrap;
+  padding: 0;
+  list-style: none;
+}
